@@ -6,7 +6,7 @@ this css has the general header/footer layout stuff
 general
 **/
 html, body {
-	background: #0c0c0c;
+	background-image: url(../img/R5cc6361d7f43785dbbde6744827bad4d.svg)
 	color: #fff;
 	font: 16px/1.5 'Sailec', Arial, sans-serif;
 	width: 100%;
@@ -141,24 +141,6 @@ main {
 /* links */
 a {
 	color: #55f;
-}
-
-/**
-background (hope this works)
-**/
-
-#backgroundimage
-{
-   height: auto;
-   left: 0;
-   margin: 0;
-   min-height: 100%;
-   min-width: 674px;
-   padding: 0;
-   position: fixed;
-   top: 0;
-   width: 100%;
-   z-index: -1;
 }
 
 /**
